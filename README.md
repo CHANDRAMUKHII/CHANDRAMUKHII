@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRAMUKHII&theme=radical)
 
-###🤝 Connect with me:
+ <h2>🤝 Connect with me:</h2>
  <a href="https://www.linkedin.com/in/chandramukhii-anbarasu/"><img align="left" src="https://raw.githubusercontent.com/CHANDRAMUKHII/CHANDRAMUKHII/main/images/linkedin.png" alt="chandramukhii | LinkedIn" width="21px"/></a>
