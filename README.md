@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=CHANDRAMUKHII&color=ff69b4&style=plastic)
+## Profile Views
+-![](https://komarev.com/ghpvc/?username=CHANDRAMUKHII&color=ff69b4&style=plastic)
  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRAMUKHII&theme=radical)
+## 📈 GitHub Stats
+-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRAMUKHII&theme=radical)
 
  <h2>🤝 Connect with me:</h2>
  <a href="https://www.linkedin.com/in/chandramukhii-anbarasu/"><img align="left" src="https://raw.githubusercontent.com/CHANDRAMUKHII/CHANDRAMUKHII/main/images/linkedin.png" alt="chandramukhii | LinkedIn" width="21px"/></a>
