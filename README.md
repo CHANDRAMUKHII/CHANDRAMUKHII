@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <h2>Profile views</h2>
 ![](https://komarev.com/ghpvc/?username=CHANDRAMUKHII&color=ff69b4&style=plastic)
  
-
+ <h2>GitHubStats</h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRAMUKHII&theme=radical)
 
  <h2>🤝 Connect with me:</h2>
