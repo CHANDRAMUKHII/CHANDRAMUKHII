@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Profile views
- <hr>
+
 ![](https://komarev.com/ghpvc/?username=CHANDRAMUKHII&color=ff69b4&style=plastic)
  
-GitHubStats
- <hr>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRAMUKHII&theme=radical)
 
  <h2>🤝 Connect with me:</h2>
