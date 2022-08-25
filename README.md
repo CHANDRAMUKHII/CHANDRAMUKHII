@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  ## 🌱 I'm currently learning
 - 📱 React Js
  
- <h2>🤝 Connect with me:</h2>
+ <h2>SOCIALS</h2>
  <a href="https://www.linkedin.com/in/chandramukhii-anbarasu/"><img align="left" src="https://raw.githubusercontent.com/CHANDRAMUKHII/CHANDRAMUKHII/main/images/linkedin.png" alt="chandramukhii | LinkedIn" width="21px"/></a>
  <a href="https://twitter.com/Mukhii30?t=QxFirnM267OypAOfN2oRFA&s=09"><img align="left" src="https://raw.githubusercontent.com/CHANDRAMUKHII/CHANDRAMUKHII/main/images/twitter.png" alt="chandramukhii | Twitter" width="21px"/></a>
  <a href="https://medium.com/@chandramukhiianbarasu"><img align="left" src="https://raw.githubusercontent.com/CHANDRAMUKHII/CHANDRAMUKHII/main/images/medium.png" alt="chandramukhii | Medium" width="21px"/></a>
