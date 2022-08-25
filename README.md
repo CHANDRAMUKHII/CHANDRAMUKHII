@@ -3,6 +3,7 @@ CHANDRAMUKHII ANBARASU
 <!--
 **CHANDRAMUKHII/CHANDRAMUKHII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![coding_girl](https://user-images.githubusercontent.com/91167654/186677381-86fa583e-c48d-4ad5-a52f-4efbf3cf32ff.gif)
 ## Profile Views
 -![](https://komarev.com/ghpvc/?username=CHANDRAMUKHII&color=ff69b4&style=plastic)
  
