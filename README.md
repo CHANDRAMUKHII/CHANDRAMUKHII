@@ -20,7 +20,7 @@ Hi I am CHANDRAMUKHII ANBARASU
 ## 📈 GitHub Stats
 -![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRAMUKHII&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHANDRAMUKHII)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHANDRAMUKHII&theme=dark)](https://git.io/streak-stats)
 
 ## Profile Views
 -![](https://komarev.com/ghpvc/?username=CHANDRAMUKHII&color=ff69b4&style=plastic)
