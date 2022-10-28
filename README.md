@@ -31,8 +31,7 @@ Hi I am CHANDRAMUKHII ANBARASU
 
 ## Check out my coding profiles in 
 <a href="https://leetcode.com/CHANDRAMUKHII/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/mDIuJ5I.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.hackerrank.com/chandramukhiian1" target="_blank" rel="noreferrer"><img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" alt="c" width="80" height="40"/></a>
-
+<a href="https://www.hackerrank.com/chandramukhiian1" target="_blank" rel="noreferrer"><img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" alt="c" width="100" height="40"/></a>
 <a href="https://www.codechef.com/users/chandramukhii" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="c" width="40" height="40"/> </a>
 ## Profile Views
 -![](https://komarev.com/ghpvc/?username=CHANDRAMUKHII&color=ff69b4&style=plastic)
